@@ -1,9 +1,0 @@
-9. Palindrome Number
-7. Reverse Integer
-231. Power of Two
-507. Perfect Number
-258. Add Digits
-326. Power of Three
-189. Rotate Array
-27. Remove Element
-66. Plus One
