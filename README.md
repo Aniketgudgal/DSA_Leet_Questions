@@ -1,6 +1,7 @@
 7. Reverse Integer
 9. Palindrome Number
 27. Remove Element
+53. Maximum Subarray
 66. Plus One
 75. Sort Colors
 189. Rotate Array
