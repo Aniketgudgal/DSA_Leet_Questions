@@ -45,6 +45,7 @@ class Solution {
                 }
         }
         return number;
+
         */
         //Moore's Voting Algorithm  // O(n)
         int freq = 0;
