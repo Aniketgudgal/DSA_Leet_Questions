@@ -1,6 +1,7 @@
 7. Reverse Integer
 9. Palindrome Number
 27. Remove Element
+50. Pow(x, n)
 53. Maximum Subarray
 66. Plus One
 75. Sort Colors
