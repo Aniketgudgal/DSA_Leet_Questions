@@ -9,6 +9,7 @@
 121. Best Time to Buy and Sell Stock
 169. Majority Element
 189. Rotate Array
+217. Contains Duplicate
 231. Power of Two
 258. Add Digits
 326. Power of Three
