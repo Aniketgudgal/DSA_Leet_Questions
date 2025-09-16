@@ -15,6 +15,7 @@
 238. Product of Array Except Self
 258. Add Digits
 326. Power of Three
+367. Valid Perfect Square
 507. Perfect Number
 509. Fibonacci Number
 867. Transpose Matrix
