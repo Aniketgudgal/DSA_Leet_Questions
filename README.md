@@ -2,6 +2,7 @@
 9. Palindrome Number
 11. Container With Most Water
 27. Remove Element
+33. Search in Rotated Sorted Array
 50. Pow(x, n)
 53. Maximum Subarray
 66. Plus One
