@@ -20,4 +20,5 @@
 367. Valid Perfect Square
 507. Perfect Number
 509. Fibonacci Number
+704. Binary Search
 867. Transpose Matrix
