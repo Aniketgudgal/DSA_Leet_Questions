@@ -18,6 +18,7 @@
 258. Add Digits
 326. Power of Three
 367. Valid Perfect Square
+374. Guess Number Higher or Lower
 507. Perfect Number
 509. Fibonacci Number
 704. Binary Search
