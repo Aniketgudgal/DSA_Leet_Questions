@@ -14,24 +14,25 @@ class Solution {
         return n;
         */
         //using binary search
-        int start = 0; 
-        int end = nums.length - 1;
-        while(start <= end)
-        {
-            int mid = (start + end)/2;
-            if(target == nums[mid])
+       int index = -1;
+       int L = 0,mid;
+       int R = nums.length - 1;
+       while(L <= R)
+       {
+            mid = L + (R-L)/2; // or (start + end)/2
+            if(nums[mid] == target)
             {
-                return mid;
+                index = mid;
             }
-            if(target > nums[mid])
+            if(nums[mid] < target)
             {
-                start = mid + 1;
+                L = mid + 1;
             }
-            else if(target < nums[mid])
+            else
             {
-                end = mid - 1;
+                R = mid - 1;
             }
-        }
-        return -1;
+       }
+       return index;
     }
 }
