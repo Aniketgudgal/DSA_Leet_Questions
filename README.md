@@ -22,3 +22,4 @@
 509. Fibonacci Number
 704. Binary Search
 867. Transpose Matrix
+1351. Count Negative Numbers in a Sorted Matrix
