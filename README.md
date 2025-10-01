@@ -22,5 +22,6 @@
 507. Perfect Number
 509. Fibonacci Number
 704. Binary Search
+852. Peak Index in a Mountain Array
 867. Transpose Matrix
 1351. Count Negative Numbers in a Sorted Matrix
