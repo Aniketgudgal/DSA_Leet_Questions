@@ -19,6 +19,7 @@
 326. Power of Three
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
+643. Maximum Average Subarray I
 507. Perfect Number
 509. Fibonacci Number
 704. Binary Search
