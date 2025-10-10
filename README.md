@@ -8,6 +8,7 @@
 53. Maximum Subarray
 66. Plus One
 75. Sort Colors
+88. Merge Sorted Array
 121. Best Time to Buy and Sell Stock
 169. Majority Element
 189. Rotate Array
