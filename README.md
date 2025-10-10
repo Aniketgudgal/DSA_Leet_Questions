@@ -17,6 +17,7 @@
 231. Power of Two
 238. Product of Array Except Self
 258. Add Digits
+283. Move Zeroes
 326. Power of Three
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
