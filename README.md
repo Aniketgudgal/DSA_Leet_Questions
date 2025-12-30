@@ -38,6 +38,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 852. Peak Index in a Mountain Array
 867. Transpose Matrix
 1351. Count Negative Numbers in a Sorted Matrix
+2110. Number of Smooth Descent Periods of a Stock
 
 ## Getting Started
 
