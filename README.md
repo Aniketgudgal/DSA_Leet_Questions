@@ -8,6 +8,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 7. Reverse Integer
 9. Palindrome Number
 11. Container With Most Water
+26. Remove Duplicates from Sorted Array
 27. Remove Element
 33. Search in Rotated Sorted Array
 50. Pow(x, n)
