@@ -27,6 +27,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 238. Product of Array Except Self
 258. Add Digits
 283. Move Zeroes
+287. Find the Duplicate Number
 326. Power of Three
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
