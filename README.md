@@ -31,6 +31,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 326. Power of Three
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
+442. Find All Duplicates in an Array
 507. Perfect Number
 509. Fibonacci Number
 643. Maximum Average Subarray I
