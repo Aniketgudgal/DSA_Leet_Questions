@@ -30,6 +30,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 258. Add Digits
 283. Move Zeroes
 287. Find the Duplicate Number
+300. Longest Increasing Subsequence
 326. Power of Three
 349. Intersection of Two Arrays
 367. Valid Perfect Square
