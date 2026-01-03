@@ -31,6 +31,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 283. Move Zeroes
 287. Find the Duplicate Number
 326. Power of Three
+349. Intersection of Two Arrays
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
 442. Find All Duplicates in an Array
