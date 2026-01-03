@@ -21,6 +21,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 121. Best Time to Buy and Sell Stock
 169. Majority Element
 189. Rotate Array
+191. Number of 1 Bits
 204. Count Primes
 209. Minimum Size Subarray Sum
 217. Contains Duplicate
