@@ -11,6 +11,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 33. Search in Rotated Sorted Array
+35. Search Insert Position
 50. Pow(x, n)
 53. Maximum Subarray
 66. Plus One
