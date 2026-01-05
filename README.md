@@ -39,6 +39,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 442. Find All Duplicates in an Array
 507. Perfect Number
 509. Fibonacci Number
+628. Maximum Product of Three Numbers
 643. Maximum Average Subarray I
 704. Binary Search
 713. Subarray Product Less Than K
