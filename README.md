@@ -12,6 +12,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 27. Remove Element
 33. Search in Rotated Sorted Array
 35. Search Insert Position
+48. Rotate Image
 50. Pow(x, n)
 53. Maximum Subarray
 66. Plus One
