@@ -19,6 +19,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 80. Remove Duplicates from Sorted Array II
 88. Merge Sorted Array
 121. Best Time to Buy and Sell Stock
+167. Two Sum II - Input Array Is Sorted
 169. Majority Element
 189. Rotate Array
 191. Number of 1 Bits
