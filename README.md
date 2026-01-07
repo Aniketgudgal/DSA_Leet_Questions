@@ -35,6 +35,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 287. Find the Duplicate Number
 300. Longest Increasing Subsequence
 326. Power of Three
+344. Reverse String
 349. Intersection of Two Arrays
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
