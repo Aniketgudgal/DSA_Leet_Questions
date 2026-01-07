@@ -17,6 +17,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 50. Pow(x, n)
 53. Maximum Subarray
 66. Plus One
+69. Sqrt(x)
 75. Sort Colors
 80. Remove Duplicates from Sorted Array II
 88. Merge Sorted Array
