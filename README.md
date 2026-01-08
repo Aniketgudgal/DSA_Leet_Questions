@@ -54,6 +54,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 867. Transpose Matrix
 1351. Count Negative Numbers in a Sorted Matrix
 2110. Number of Smooth Descent Periods of a Stock
+2529. Maximum Count of Positive Integer and Negative Integer
 3065. Minimum Operations to Exceed Threshold Value I
 
 ## Getting Started
