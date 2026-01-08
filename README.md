@@ -26,6 +26,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 167. Two Sum II - Input Array Is Sorted
 169. Majority Element
 189. Rotate Array
+190. Reverse Bits
 191. Number of 1 Bits
 204. Count Primes
 209. Minimum Size Subarray Sum
