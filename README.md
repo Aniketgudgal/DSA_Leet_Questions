@@ -16,6 +16,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 48. Rotate Image
 50. Pow(x, n)
 53. Maximum Subarray
+54. Spiral Matrix
 66. Plus One
 69. Sqrt(x)
 75. Sort Colors
