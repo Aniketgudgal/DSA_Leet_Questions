@@ -57,6 +57,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 2110. Number of Smooth Descent Periods of a Stock
 2529. Maximum Count of Positive Integer and Negative Integer
 3065. Minimum Operations to Exceed Threshold Value I
+3512. Minimum Operations to Make Array Sum Divisible by K
 
 ## Getting Started
 
