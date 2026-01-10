@@ -35,6 +35,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 231. Power of Two
 238. Product of Array Except Self
 258. Add Digits
+268. Missing Number
 283. Move Zeroes
 287. Find the Duplicate Number
 300. Longest Increasing Subsequence
