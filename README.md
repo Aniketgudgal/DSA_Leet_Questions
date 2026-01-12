@@ -37,6 +37,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 231. Power of Two
 234. Palindrome Linked List
 238. Product of Array Except Self
+242. Valid Anagram
 258. Add Digits
 268. Missing Number
 283. Move Zeroes
