@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains solutions to various LeetCode problems. Each problem is solved with the goal of writing clean, efficient, and well-documented code. The problems are listed below in numerical order for easy reference.
+This repository collects my LeetCode solutions. Each problem is solved with clarity and efficiency in mind, and the repo is organized so you can browse solutions by problem number. The list below contains problems I have solved and uploaded here.
 
 ## Problem List
 
@@ -67,29 +67,103 @@ This repository contains solutions to various LeetCode problems. Each problem is
 3065. Minimum Operations to Exceed Threshold Value I
 3512. Minimum Operations to Make Array Sum Divisible by K
 
-## Getting Started
+## Repository Documentation
 
-To get started with this repository, clone it to your local machine:
+### Overview
+
+This repo is a personal collection of problem solutions from LeetCode. Problems are individually implemented and aim to illustrate clear approaches, typical patterns, and optimized implementations where appropriate. Use the problem list above to find a specific problem and open its corresponding file to inspect the solution.
+
+### Topics & Techniques Covered (detailed)
+
+Below are the major algorithmic topics and key points covered across the problems in this repository. For each topic, I include concise explanations and representative problems from this repo.
+
+- **Arrays & Hashing:**
+	- Key ideas: indexing, in-place updates, frequency maps, element-to-index mappings.
+	- Use cases: counting, deduplication, lookup in O(1).
+	- Representative problems: `Two Sum` (1), `Contains Duplicate` (217), `Intersection of Two Arrays` (349), `Move Zeroes` (283), `Missing Number` (268), `Find All Duplicates in an Array` (442).
+
+- **Two Pointers:**
+	- Key ideas: left/right pointers, in-place swaps, shrinking/expanding windows for sorted arrays or paired operations.
+	- Representative problems: `Container With Most Water` (11), `Two Sum II` (167), `Remove Duplicates from Sorted Array` (26), `Remove Element` (27), `Sort Colors` (75).
+
+- **Sliding Window:**
+	- Key ideas: variable-size window, maintain running aggregates, optimize subarray problems to O(n).
+	- Representative problems: `Minimum Size Subarray Sum` (209), `Subarray Product Less Than K` (713), `Maximum Average Subarray I` (643).
+
+- **Prefix Sum & Hashing:**
+	- Key ideas: prefix sums to transform range-sum queries into constant-time checks; use hashmaps to store seen sums/indices.
+	- Representative problems: `Subarray Sum Equals K` (560), `Product of Array Except Self` (238) (prefix-like transforms), `Missing Number` (268).
+
+- **Sorting & Partitioning:**
+	- Key ideas: sort + two-pointer, partition (Dutch National Flag), selection for k-th largest, use sorting to simplify logic.
+	- Representative problems: `Sort Colors` (75), `Maximum Product of Three Numbers` (628), `Merge Sorted Array` (88).
+
+- **Binary Search & Variants:**
+	- Key ideas: search on index/answer, handle edge cases (duplicates, rotated arrays), use while-loops with mid computation.
+	- Representative problems: `Sqrt(x)` (69), `Find Minimum in Rotated Sorted Array` (153), `Search in Rotated Sorted Array` (33), `Binary Search` (704).
+
+- **Dynamic Programming (DP):**
+	- Key ideas: define state, recurrence, optimize space when possible, handle base cases.
+	- Representative problems: `Maximum Subarray` (53) (Kadane — 1D DP), `Maximum Product Subarray` (152), `Longest Increasing Subsequence` (300), `Fibonacci Number` (509).
+
+- **Greedy:**
+	- Key ideas: local optimal choices lead to global optimum, sorting + greedy selection.
+	- Representative problems: `Best Time to Buy and Sell Stock` (121) (single pass greedy), `Maximum Product of Three Numbers` (628).
+
+- **Bit Manipulation & Math:**
+	- Key ideas: bit ops for flags/counting bits, arithmetic tricks, modular considerations.
+	- Representative problems: `Reverse Bits` (190), `Number of 1 Bits` (191), `Power of Two` (231), `Add Digits` (258), `Pow(x, n)` (50).
+
+- **Linked List Techniques:**
+	- Key ideas: slow/fast pointers, cycle detection, two-pointer removal, list merging.
+	- Representative problems: `Linked List Cycle` (141), `Linked List Cycle II` (142), `Palindrome Linked List` (234), `Merge k Sorted Lists` (23).
+
+- **Recursion, Tree Traversal & DFS:**
+	- Key ideas: recursion for traversal, stack-based iterative alternatives, preorder/inorder/postorder patterns.
+	- Representative problems: `Binary Tree Preorder Traversal` (144).
+
+- **Number Theory & Primes:**
+	- Key ideas: sieve, primality checks, factorization where relevant.
+	- Representative problems: `Count Primes` (204), `Perfect Number` (507), `Valid Perfect Square` (367).
+
+- **Windowed and Monotonic Methods:**
+	- Key ideas: monotonic queues/stacks for range maxima/minima and optimized sliding-window variants.
+	- Representative problems: `Peak Index in a Mountain Array` (852), `Number of Smooth Descent Periods of a Stock` (2110) (pattern counting).
+
+Each solution typically includes a short explanation in the file header and attempts to show the pattern used so the approach is reusable across similar problems.
+
+### File structure
+
+- Root: problem files (named by problem or number). See the problem list above.
+- `README.md`: this documentation.
+
+### How to run / Inspect solutions
+
+- Clone the repo:
 
 ```bash
 git clone https://github.com/Aniketgudgal/DSA_Leet_Questions.git
+cd DSA_Leet_Questions
+```
+- Open the solution file for a problem (files are organized per problem). Each file contains a solution and usually a small test or example usage in comments.
+- Run the file using the language runtime your solution is implemented in (Python, Java, C++, etc.). Example for Python:
+
+```bash
+python path/to/problem_solution.py
 ```
 
-Each problem solution is implemented in a separate file. Navigate to the corresponding file to view the solution.
+If you want, I can standardize runners or add a small test harness — tell me which language you'd like prioritized.
 
-## Contributing
+### Contribution Guidelines
 
-Contributions are welcome! If you'd like to add a new solution or improve an existing one, please follow these steps:
+- Add solutions in a clear file-naming format (e.g., `001_two_sum.py` or `1_two_sum.cpp`).
+- Include a brief explanation at the top of each solution file describing the approach and complexity.
+- Add tests or example usage for your solution where possible.
 
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and test them thoroughly.
-4. Submit a pull request with a clear description of your changes.
+### Contact
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to reach out via email at [aniketgudgal5867@gmail.com].
+For questions or suggestions, contact: aniketgudgal5867@gmail.com
 
 ---
 
-Thank you for visiting this repository! Keep exploring and learning more. Happy coding!
+Thank you for exploring these solutions — keep practicing and refining patterns!
