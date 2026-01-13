@@ -27,6 +27,7 @@ This repository contains solutions to various LeetCode problems. Each problem is
 142. Linked List Cycle II
 144. Binary Tree Preorder Traversal
 152. Maximum Product Subarray
+153. Find Minimum in Rotated Sorted Array
 167. Two Sum II - Input Array Is Sorted
 169. Majority Element
 189. Rotate Array
