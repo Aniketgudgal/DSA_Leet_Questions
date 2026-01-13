@@ -10,8 +10,10 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-       
-        ListNode current = null;
+       ArrayList<Integer> al = new ArrayList<>();
+       /* 
+       // this problem is solving merge sort of list
+       ListNode current = null;
         ListNode dummy = null;
         ListNode head = null;
         ListNode prev = null;
@@ -37,8 +39,41 @@ class Solution {
             }
             i++;
         }
-        return sortList(head);
+        */
+
+        // this solution from using array list
+        int i = 0;
+        ListNode head = null;
+        ListNode prev = null;
+        while(i < lists.length)
+        {
+            ListNode temp = lists[i];
+            while(temp != null)
+            {
+                al.add(temp.val);
+               temp = temp.next;
+            }
+            i++;
+        }
+        Collections.sort(al);
+        ListNode temp = null;
+        for(i = 0; i < al.size(); i++)
+        {
+           if(head == null)
+            {
+                head = new ListNode(al.get(i));
+                prev = head;
+            }
+            else
+            {
+                temp = new ListNode(al.get(i));
+                prev.next = temp;
+                prev = temp;
+            }
+        }
+        return head;
     }
+    /*
       private ListNode sortList(ListNode head) {
         if (head == null || head.next == null)
             return head;
@@ -84,4 +119,5 @@ class Solution {
         curr.next = (l1 != null) ? l1 : l2;
         return dummy.next;
     }
+    */
 }
