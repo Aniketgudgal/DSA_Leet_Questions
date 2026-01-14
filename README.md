@@ -8,6 +8,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 7. Reverse Integer
 9. Palindrome Number
 11. Container With Most Water
+20. Valid Parentheses
 23. Merge k Sorted Lists
 26. Remove Duplicates from Sorted Array
 27. Remove Element
