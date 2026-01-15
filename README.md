@@ -24,6 +24,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 69. Sqrt(x)
 75. Sort Colors
 80. Remove Duplicates from Sorted Array II
+83. Remove Duplicates from Sorted List
 88. Merge Sorted Array
 121. Best Time to Buy and Sell Stock
 141. Linked List Cycle
