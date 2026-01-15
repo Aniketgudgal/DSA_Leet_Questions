@@ -5,6 +5,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 ## Problem List
 
 1. Two Sum
+2. Add Two Numbers
 7. Reverse Integer
 9. Palindrome Number
 11. Container With Most Water
