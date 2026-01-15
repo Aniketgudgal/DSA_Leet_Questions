@@ -55,6 +55,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 349. Intersection of Two Arrays
 367. Valid Perfect Square
 374. Guess Number Higher or Lower
+414. Third Maximum Number
 442. Find All Duplicates in an Array
 507. Perfect Number
 509. Fibonacci Number
