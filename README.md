@@ -30,6 +30,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 141. Linked List Cycle
 142. Linked List Cycle II
 144. Binary Tree Preorder Traversal
+145. Binary Tree Postorder Traversal
 152. Maximum Product Subarray
 153. Find Minimum in Rotated Sorted Array
 162. Find Peak Element
