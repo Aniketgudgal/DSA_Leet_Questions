@@ -78,6 +78,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 3217. Delete Nodes From Linked List Present in Array
 3512. Minimum Operations to Make Array Sum Divisible by K
 3658. GCD of Odd and Even Sums
+1480. Running Sum of 1d Array
 
 ## Repository Documentation
 
