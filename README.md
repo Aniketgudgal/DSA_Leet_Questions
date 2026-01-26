@@ -22,6 +22,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 53. Maximum Subarray
 54. Spiral Matrix
 66. Plus One
+67. Add Binary
 69. Sqrt(x)
 75. Sort Colors
 80. Remove Duplicates from Sorted Array II
