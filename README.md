@@ -25,6 +25,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 67. Add Binary
 69. Sqrt(x)
 75. Sort Colors
+78. Subsets
 80. Remove Duplicates from Sorted Array II
 83. Remove Duplicates from Sorted List
 88. Merge Sorted Array
