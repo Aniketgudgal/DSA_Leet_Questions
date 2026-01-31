@@ -72,6 +72,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 643. Maximum Average Subarray I
 704. Binary Search
 713. Subarray Product Less Than K
+744. Find Smallest Letter Greater Than Target
 852. Peak Index in a Mountain Array
 867. Transpose Matrix
 1200. Minimum Absolute Difference
