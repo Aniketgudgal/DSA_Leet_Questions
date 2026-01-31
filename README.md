@@ -43,6 +43,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 189. Rotate Array
 190. Reverse Bits
 191. Number of 1 Bits
+202. Happy Number
 204. Count Primes
 209. Minimum Size Subarray Sum
 217. Contains Duplicate
