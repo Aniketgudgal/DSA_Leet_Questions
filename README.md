@@ -30,6 +30,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 83. Remove Duplicates from Sorted List
 88. Merge Sorted Array
 121. Best Time to Buy and Sell Stock
+128. Longest Consecutive Sequence
 141. Linked List Cycle
 142. Linked List Cycle II
 143. Reorder List
