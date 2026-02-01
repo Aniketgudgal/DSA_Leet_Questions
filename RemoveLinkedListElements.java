@@ -14,7 +14,7 @@ class Solution {
         {
             return head;
         }
-       ListNode dummy = new ListNode(0);
+       /*ListNode dummy = new ListNode(0);
         dummy.next = head;
 
         ListNode curr = dummy;
@@ -30,5 +30,23 @@ class Solution {
             }
         }
         return dummy.next;
+        */
+        while (head != null && head.val == val) 
+        {
+            head = head.next;
+        }
+        ListNode temp = head;
+        while(temp != null && temp.next != null)
+        {
+            if(temp.next.val == val)
+            {
+                temp.next = temp.next.next;
+            }
+            else
+            {
+                temp = temp.next;
+            }
+        }
+        return head;
     }
 }
