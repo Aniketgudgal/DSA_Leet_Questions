@@ -74,6 +74,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 628. Maximum Product of Three Numbers
 643. Maximum Average Subarray I
 704. Binary Search
+707. Design Linked List
 713. Subarray Product Less Than K
 744. Find Smallest Letter Greater Than Target
 852. Peak Index in a Mountain Array
