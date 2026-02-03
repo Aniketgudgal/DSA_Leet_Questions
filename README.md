@@ -47,6 +47,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 202. Happy Number
 203. Remove Linked List Elements
 204. Count Primes
+208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 217. Contains Duplicate
 231. Power of Two
