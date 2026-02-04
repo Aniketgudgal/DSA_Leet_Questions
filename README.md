@@ -86,6 +86,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 2110. Number of Smooth Descent Periods of a Stock
 2529. Maximum Count of Positive Integer and Negative Integer
 3065. Minimum Operations to Exceed Threshold Value I
+3099. Harshad Number
 3217. Delete Nodes From Linked List Present in Array
 3512. Minimum Operations to Make Array Sum Divisible by K
 3658. GCD of Odd and Even Sums
