@@ -38,6 +38,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 145. Binary Tree Postorder Traversal
 152. Maximum Product Subarray
 153. Find Minimum in Rotated Sorted Array
+160. Intersection of Two Linked Lists
 162. Find Peak Element
 167. Two Sum II - Input Array Is Sorted
 169. Majority Element
