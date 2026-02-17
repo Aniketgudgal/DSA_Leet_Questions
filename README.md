@@ -62,6 +62,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 268. Missing Number
 283. Move Zeroes
 287. Find the Duplicate Number
+290. Word Pattern
 300. Longest Increasing Subsequence
 326. Power of Three
 344. Reverse String
