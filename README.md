@@ -62,6 +62,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 268. Missing Number
 283. Move Zeroes
 287. Find the Duplicate Number
+290. Word Pattern
 300. Longest Increasing Subsequence
 326. Power of Three
 344. Reverse String
@@ -78,10 +79,12 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 628. Maximum Product of Three Numbers
 643. Maximum Average Subarray I
 645. Set Mismatch
+680. Valid Palindrome II
 704. Binary Search
 707. Design Linked List
 713. Subarray Product Less Than K
 744. Find Smallest Letter Greater Than Target
+796. Rotate String
 852. Peak Index in a Mountain Array
 867. Transpose Matrix
 1200. Minimum Absolute Difference
