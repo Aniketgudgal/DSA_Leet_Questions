@@ -18,6 +18,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 33. Search in Rotated Sorted Array
 34. Find First and Last Position of Element in Sorted Array
 35. Search Insert Position
+43. Multiply Strings
 48. Rotate Image
 50. Pow(x, n)
 53. Maximum Subarray
