@@ -75,6 +75,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 412. Fizz Buzz
 414. Third Maximum Number
 442. Find All Duplicates in an Array
+443. String Compression
 507. Perfect Number
 509. Fibonacci Number
 560. Subarray Sum Equals K
