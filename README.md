@@ -6,6 +6,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 
 1. Two Sum
 2. Add Two Numbers
+3. Longest Substring Without Repeating Characters
 7. Reverse Integer
 9. Palindrome Number
 11. Container With Most Water
@@ -38,6 +39,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 145. Binary Tree Postorder Traversal
 152. Maximum Product Subarray
 153. Find Minimum in Rotated Sorted Array
+160. Intersection of Two Linked Lists
 162. Find Peak Element
 167. Two Sum II - Input Array Is Sorted
 169. Majority Element
@@ -47,6 +49,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 202. Happy Number
 203. Remove Linked List Elements
 204. Count Primes
+205. Isomorphic Strings
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 217. Contains Duplicate
@@ -59,6 +62,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 268. Missing Number
 283. Move Zeroes
 287. Find the Duplicate Number
+290. Word Pattern
 300. Longest Increasing Subsequence
 326. Power of Three
 344. Reverse String
@@ -74,18 +78,23 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 560. Subarray Sum Equals K
 628. Maximum Product of Three Numbers
 643. Maximum Average Subarray I
+645. Set Mismatch
+680. Valid Palindrome II
 704. Binary Search
 707. Design Linked List
 713. Subarray Product Less Than K
 744. Find Smallest Letter Greater Than Target
+796. Rotate String
 852. Peak Index in a Mountain Array
 867. Transpose Matrix
 1200. Minimum Absolute Difference
 1351. Count Negative Numbers in a Sorted Matrix
+1358. Number of Substrings Containing All Three Characters
 1423. Maximum Points You Can Obtain from Cards
 2110. Number of Smooth Descent Periods of a Stock
 2529. Maximum Count of Positive Integer and Negative Integer
 3065. Minimum Operations to Exceed Threshold Value I
+3099. Harshad Number
 3217. Delete Nodes From Linked List Present in Array
 3512. Minimum Operations to Make Array Sum Divisible by K
 3658. GCD of Odd and Even Sums
