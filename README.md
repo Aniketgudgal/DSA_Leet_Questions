@@ -76,6 +76,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 507. Perfect Number
 509. Fibonacci Number
 560. Subarray Sum Equals K
+605. Can Place Flowers
 628. Maximum Product of Three Numbers
 643. Maximum Average Subarray I
 645. Set Mismatch
