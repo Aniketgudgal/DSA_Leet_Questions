@@ -87,6 +87,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 796. Rotate String
 852. Peak Index in a Mountain Array
 867. Transpose Matrix
+1004. Max Consecutive Ones III
 1200. Minimum Absolute Difference
 1351. Count Negative Numbers in a Sorted Matrix
 1358. Number of Substrings Containing All Three Characters
