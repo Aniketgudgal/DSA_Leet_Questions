@@ -93,6 +93,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1351. Count Negative Numbers in a Sorted Matrix
 1358. Number of Substrings Containing All Three Characters
 1423. Maximum Points You Can Obtain from Cards
+1752. Check if Array Is Sorted and Rotated
 2110. Number of Smooth Descent Periods of a Stock
 2529. Maximum Count of Positive Integer and Negative Integer
 3065. Minimum Operations to Exceed Threshold Value I
