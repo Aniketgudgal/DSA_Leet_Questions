@@ -84,6 +84,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 704. Binary Search
 707. Design Linked List
 713. Subarray Product Less Than K
+724. Find Pivot Index
 744. Find Smallest Letter Greater Than Target
 796. Rotate String
 852. Peak Index in a Mountain Array
