@@ -92,6 +92,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 867. Transpose Matrix
 1004. Max Consecutive Ones III
 1200. Minimum Absolute Difference
+1207. Unique Number of Occurrences
 1351. Count Negative Numbers in a Sorted Matrix
 1358. Number of Substrings Containing All Three Characters
 1423. Maximum Points You Can Obtain from Cards
