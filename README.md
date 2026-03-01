@@ -96,6 +96,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1423. Maximum Points You Can Obtain from Cards
 1431. Kids With the Greatest Number of Candies
 1752. Check if Array Is Sorted and Rotated
+1732. Find the Highest Altitude
 2110. Number of Smooth Descent Periods of a Stock
 2529. Maximum Count of Positive Integer and Negative Integer
 2574. Left and Right Sum Differences
