@@ -97,6 +97,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1358. Number of Substrings Containing All Three Characters
 1423. Maximum Points You Can Obtain from Cards
 1431. Kids With the Greatest Number of Candies
+1456. Maximum Number of Vowels in a Substring of Given Length
 1752. Check if Array Is Sorted and Rotated
 1732. Find the Highest Altitude
 2110. Number of Smooth Descent Periods of a Stock
