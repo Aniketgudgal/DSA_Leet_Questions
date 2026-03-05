@@ -98,9 +98,11 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1423. Maximum Points You Can Obtain from Cards
 1431. Kids With the Greatest Number of Candies
 1456. Maximum Number of Vowels in a Substring of Given Length
+1480. Running Sum of 1d Array
 1752. Check if Array Is Sorted and Rotated
 1732. Find the Highest Altitude
 2110. Number of Smooth Descent Periods of a Stock
+2215. Find the Difference of Two Arrays
 2529. Maximum Count of Positive Integer and Negative Integer
 2574. Left and Right Sum Differences
 3065. Minimum Operations to Exceed Threshold Value I
@@ -108,7 +110,6 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 3217. Delete Nodes From Linked List Present in Array
 3512. Minimum Operations to Make Array Sum Divisible by K
 3658. GCD of Odd and Even Sums
-1480. Running Sum of 1d Array
 
 ## Repository Documentation
 
