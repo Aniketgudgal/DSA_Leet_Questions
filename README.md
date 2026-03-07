@@ -50,6 +50,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 203. Remove Linked List Elements
 204. Count Primes
 205. Isomorphic Strings
+206. Reverse Linked List
 208. Implement Trie (Prefix Tree)
 209. Minimum Size Subarray Sum
 217. Contains Duplicate
