@@ -102,6 +102,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1480. Running Sum of 1d Array
 1752. Check if Array Is Sorted and Rotated
 1732. Find the Highest Altitude
+2095. Delete the Middle Node of a Linked List
 2110. Number of Smooth Descent Periods of a Stock
 2215. Find the Difference of Two Arrays
 2529. Maximum Count of Positive Integer and Negative Integer
