@@ -106,6 +106,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 2095. Delete the Middle Node of a Linked List
 2110. Number of Smooth Descent Periods of a Stock
 2215. Find the Difference of Two Arrays
+2352. Equal Row and Column Pairs
 2529. Maximum Count of Positive Integer and Negative Integer
 2574. Left and Right Sum Differences
 3065. Minimum Operations to Exceed Threshold Value I
