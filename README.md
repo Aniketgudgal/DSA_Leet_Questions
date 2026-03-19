@@ -101,6 +101,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1431. Kids With the Greatest Number of Candies
 1456. Maximum Number of Vowels in a Substring of Given Length
 1480. Running Sum of 1d Array
+1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 1752. Check if Array Is Sorted and Rotated
 1732. Find the Highest Altitude
 2095. Delete the Middle Node of a Linked List
