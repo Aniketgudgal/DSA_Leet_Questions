@@ -66,6 +66,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 290. Word Pattern
 300. Longest Increasing Subsequence
 326. Power of Three
+328. Odd Even Linked List
 334. Increasing Triplet Subsequence
 344. Reverse String
 349. Intersection of Two Arrays
