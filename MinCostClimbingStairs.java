@@ -6,6 +6,7 @@ class Solution {
        Arrays.fill(arr,-1);
        return recursion(cost.length,cost,arr);
        */
+       /*
        // optimal solution
        int[] arr = new int[cost.length +1];
        arr[0] = 0;
@@ -15,6 +16,19 @@ class Solution {
         arr[i] = Math.min(cost[i-1]+arr[i-1], cost[i-2]+arr[i-2]);
        }
        return arr[arr.length - 1];
+       */
+       
+       // more optimal solution
+       int prev1 = 0;
+       int prev = 0;
+       int minSum = 0;
+       for(int i = 2; i <= cost.length; i++)
+       {
+            minSum = Math.min(cost[i-1]+prev, cost[i-2]+prev1);
+            prev1 = prev;
+            prev = minSum;
+       }
+       return minSum;
        
     }
     public int recursion(int n,int[] arr,int[] dp)
