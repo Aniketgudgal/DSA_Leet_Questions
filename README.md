@@ -90,6 +90,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 713. Subarray Product Less Than K
 724. Find Pivot Index
 744. Find Smallest Letter Greater Than Target
+746. Min Cost Climbing Stairs
 796. Rotate String
 852. Peak Index in a Mountain Array
 867. Transpose Matrix
