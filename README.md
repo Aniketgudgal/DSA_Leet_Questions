@@ -44,6 +44,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 162. Find Peak Element
 167. Two Sum II - Input Array Is Sorted
 169. Majority Element
+172. Factorial Trailing Zeroes
 189. Rotate Array
 190. Reverse Bits
 191. Number of 1 Bits
