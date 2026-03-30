@@ -116,6 +116,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 2352. Equal Row and Column Pairs
 2529. Maximum Count of Positive Integer and Negative Integer
 2574. Left and Right Sum Differences
+2839. Check if Strings Can be Made Equal With Operations I
 2840. Check if Strings Can be Made Equal With Operations II
 3065. Minimum Operations to Exceed Threshold Value I
 3099. Harshad Number
