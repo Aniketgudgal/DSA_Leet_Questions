@@ -7,129 +7,130 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 1. Two Sum
 2. Add Two Numbers
 3. Longest Substring Without Repeating Characters
-7. Reverse Integer
-9. Palindrome Number
-11. Container With Most Water
-14. Longest Common Prefix
-20. Valid Parentheses
-23. Merge k Sorted Lists
-26. Remove Duplicates from Sorted Array
-27. Remove Element
-28. Find the Index of the First Occurrence in a String
-33. Search in Rotated Sorted Array
-34. Find First and Last Position of Element in Sorted Array
-35. Search Insert Position
-48. Rotate Image
-50. Pow(x, n)
-53. Maximum Subarray
-54. Spiral Matrix
-66. Plus One
-67. Add Binary
-69. Sqrt(x)
-70. Climbing Stairs
-75. Sort Colors
-78. Subsets
-80. Remove Duplicates from Sorted Array II
-83. Remove Duplicates from Sorted List
-88. Merge Sorted Array
-121. Best Time to Buy and Sell Stock
-128. Longest Consecutive Sequence
-141. Linked List Cycle
-142. Linked List Cycle II
-143. Reorder List
-144. Binary Tree Preorder Traversal
-145. Binary Tree Postorder Traversal
-152. Maximum Product Subarray
-153. Find Minimum in Rotated Sorted Array
-160. Intersection of Two Linked Lists
-162. Find Peak Element
-167. Two Sum II - Input Array Is Sorted
-169. Majority Element
-172. Factorial Trailing Zeroes
-189. Rotate Array
-190. Reverse Bits
-191. Number of 1 Bits
-202. Happy Number
-203. Remove Linked List Elements
-204. Count Primes
-205. Isomorphic Strings
-206. Reverse Linked List
-208. Implement Trie (Prefix Tree)
-209. Minimum Size Subarray Sum
-217. Contains Duplicate
-231. Power of Two
-234. Palindrome Linked List
-237. Delete Node in a Linked List
-238. Product of Array Except Self
-242. Valid Anagram
-258. Add Digits
-268. Missing Number
-283. Move Zeroes
-287. Find the Duplicate Number
-290. Word Pattern
-300. Longest Increasing Subsequence
-326. Power of Three
-328. Odd Even Linked List
-334. Increasing Triplet Subsequence
-344. Reverse String
-349. Intersection of Two Arrays
-367. Valid Perfect Square
-374. Guess Number Higher or Lower
-387. First Unique Character in a String
-412. Fizz Buzz
-414. Third Maximum Number
-442. Find All Duplicates in an Array
-507. Perfect Number
-509. Fibonacci Number
-560. Subarray Sum Equals K
-605. Can Place Flowers
-628. Maximum Product of Three Numbers
-643. Maximum Average Subarray I
-645. Set Mismatch
-657. Robot Return to Origin
-680. Valid Palindrome II
-704. Binary Search
-707. Design Linked List
-713. Subarray Product Less Than K
-724. Find Pivot Index
-744. Find Smallest Letter Greater Than Target
-746. Min Cost Climbing Stairs
-796. Rotate String
-852. Peak Index in a Mountain Array
-867. Transpose Matrix
-874. Walking Robot Simulation
-875. Koko Eating Bananas
-905. Sort Array By Parity
-1004. Max Consecutive Ones III
-1200. Minimum Absolute Difference
-1207. Unique Number of Occurrences
-1351. Count Negative Numbers in a Sorted Matrix
-1358. Number of Substrings Containing All Three Characters
-1423. Maximum Points You Can Obtain from Cards
-1431. Kids With the Greatest Number of Candies
-1456. Maximum Number of Vowels in a Substring of Given Length
-1480. Running Sum of 1d Array
-1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
-1752. Check if Array Is Sorted and Rotated
-1732. Find the Highest Altitude
-1886. Determine Whether Matrix Can Be Obtained By Rotation
-2069. Walking Robot Simulation II
-2095. Delete the Middle Node of a Linked List
-2110. Number of Smooth Descent Periods of a Stock
-2215. Find the Difference of Two Arrays
-2352. Equal Row and Column Pairs
-2529. Maximum Count of Positive Integer and Negative Integer
-2574. Left and Right Sum Differences
-2751. Robot Collisions
-2839. Check if Strings Can be Made Equal With Operations I
-2840. Check if Strings Can be Made Equal With Operations II
-3065. Minimum Operations to Exceed Threshold Value I
-3099. Harshad Number
-3217. Delete Nodes From Linked List Present in Array
-3418. Maximum Amount of Money Robot Can Earn
-3474. Lexicographically Smallest Generated String
-3512. Minimum Operations to Make Array Sum Divisible by K
-3658. GCD of Odd and Even Sums
+4. Reverse Integer
+5. Palindrome Number
+6. Container With Most Water
+7. Longest Common Prefix
+8. Valid Parentheses
+9. Merge k Sorted Lists
+10. Remove Duplicates from Sorted Array
+11. Remove Element
+12. Find the Index of the First Occurrence in a String
+13. Search in Rotated Sorted Array
+14. Find First and Last Position of Element in Sorted Array
+15. Search Insert Position
+16. Rotate Image
+17. Pow(x, n)
+18. Maximum Subarray
+19. Spiral Matrix
+20. Plus One
+21. Add Binary
+22. Sqrt(x)
+23. Climbing Stairs
+24. Sort Colors
+25. Subsets
+26. Remove Duplicates from Sorted Array II
+27. Remove Duplicates from Sorted List
+28. Merge Sorted Array
+29. Best Time to Buy and Sell Stock
+30. Longest Consecutive Sequence
+31. Linked List Cycle
+32. Linked List Cycle II
+33. Reorder List
+34. Binary Tree Preorder Traversal
+35. Binary Tree Postorder Traversal
+36. Maximum Product Subarray
+37. Find Minimum in Rotated Sorted Array
+38. Intersection of Two Linked Lists
+39. Find Peak Element
+40. Two Sum II - Input Array Is Sorted
+41. Majority Element
+42. Factorial Trailing Zeroes
+43. Rotate Array
+44. Reverse Bits
+45. Number of 1 Bits
+46. Happy Number
+47. Remove Linked List Elements
+48. Count Primes
+49. Isomorphic Strings
+50. Reverse Linked List
+51. Implement Trie (Prefix Tree)
+52. Minimum Size Subarray Sum
+53. Contains Duplicate
+54. Power of Two
+55. Palindrome Linked List
+56. Delete Node in a Linked List
+57. Product of Array Except Self
+58. Valid Anagram
+59. Add Digits
+60. Missing Number
+61. Move Zeroes
+62. Find the Duplicate Number
+63. Word Pattern
+64. Longest Increasing Subsequence
+65. Power of Three
+66. Odd Even Linked List
+67. Increasing Triplet Subsequence
+68. Reverse String
+69. Intersection of Two Arrays
+70. Valid Perfect Square
+71. Guess Number Higher or Lower
+72. First Unique Character in a String
+73. Fizz Buzz
+74. Third Maximum Number
+75. Find All Duplicates in an Array
+76. Perfect Number
+77. Fibonacci Number
+78. Subarray Sum Equals K
+79. Can Place Flowers
+80. Maximum Product of Three Numbers
+81. Maximum Average Subarray I
+82. Set Mismatch
+83. Robot Return to Origin
+84. Valid Palindrome II
+85. Binary Search
+86. Design Linked List
+87. Subarray Product Less Than K
+88. Find Pivot Index
+89. Find Smallest Letter Greater Than Target
+90. Min Cost Climbing Stairs
+91. Rotate String
+92. Peak Index in a Mountain Array
+93. Transpose Matrix
+94. Walking Robot Simulation
+95. Koko Eating Bananas
+96. Sort Array By Parity
+97. Max Consecutive Ones III
+98. Minimum Absolute Difference
+99. Unique Number of Occurrences
+100. Count Negative Numbers in a Sorted Matrix
+101. Number of Substrings Containing All Three Characters
+102. Maximum Points You Can Obtain from Cards
+103. Kids With the Greatest Number of Candies
+104. Maximum Number of Vowels in a Substring of Given Length
+105. Running Sum of 1d Array
+106. Partitioning Into Minimum Number Of Deci-Binary Numbers
+107. Check if Array Is Sorted and Rotated
+108. Find the Highest Altitude
+109. Determine Whether Matrix Can Be Obtained By Rotation
+110. Walking Robot Simulation II
+111. Delete the Middle Node of a Linked List
+112. Number of Smooth Descent Periods of a Stock
+113. Find the Difference of Two Arrays
+114. Equal Row and Column Pairs
+115. Maximum Count of Positive Integer and Negative Integer
+116. Left and Right Sum Differences
+117. Robot Collisions
+118. Check if Strings Can be Made Equal With Operations I
+119. Check if Strings Can be Made Equal With Operations II
+120. Minimum Operations to Exceed Threshold Value I
+121. Harshad Number
+122. Delete Nodes From Linked List Present in Array
+123. Maximum Amount of Money Robot Can Earn
+124. Lexicographically Smallest Generated String
+125. Minimum Operations to Make Array Sum Divisible by K
+126. XOR After Range Multiplication Queries I
+127. GCD of Odd and Even Sums
 
 ## Repository Documentation
 
@@ -142,57 +143,57 @@ This repo is a personal collection of problem solutions from LeetCode. Problems 
 Below are the major algorithmic topics and key points covered across the problems in this repository. For each topic, I include concise explanations and representative problems from this repo.
 
 - **Arrays & Hashing:**
-	- Key ideas: indexing, in-place updates, frequency maps, element-to-index mappings.
-	- Use cases: counting, deduplication, lookup in O(1).
-	- Representative problems: `Two Sum` (1), `Contains Duplicate` (217), `Intersection of Two Arrays` (349), `Move Zeroes` (283), `Missing Number` (268), `Find All Duplicates in an Array` (442).
+  - Key ideas: indexing, in-place updates, frequency maps, element-to-index mappings.
+  - Use cases: counting, deduplication, lookup in O(1).
+  - Representative problems: `Two Sum` (1), `Contains Duplicate` (217), `Intersection of Two Arrays` (349), `Move Zeroes` (283), `Missing Number` (268), `Find All Duplicates in an Array` (442).
 
 - **Two Pointers:**
-	- Key ideas: left/right pointers, in-place swaps, shrinking/expanding windows for sorted arrays or paired operations.
-	- Representative problems: `Container With Most Water` (11), `Two Sum II` (167), `Remove Duplicates from Sorted Array` (26), `Remove Element` (27), `Sort Colors` (75).
+  - Key ideas: left/right pointers, in-place swaps, shrinking/expanding windows for sorted arrays or paired operations.
+  - Representative problems: `Container With Most Water` (11), `Two Sum II` (167), `Remove Duplicates from Sorted Array` (26), `Remove Element` (27), `Sort Colors` (75).
 
 - **Sliding Window:**
-	- Key ideas: variable-size window, maintain running aggregates, optimize subarray problems to O(n).
-	- Representative problems: `Minimum Size Subarray Sum` (209), `Subarray Product Less Than K` (713), `Maximum Average Subarray I` (643).
+  - Key ideas: variable-size window, maintain running aggregates, optimize subarray problems to O(n).
+  - Representative problems: `Minimum Size Subarray Sum` (209), `Subarray Product Less Than K` (713), `Maximum Average Subarray I` (643).
 
 - **Prefix Sum & Hashing:**
-	- Key ideas: prefix sums to transform range-sum queries into constant-time checks; use hashmaps to store seen sums/indices.
-	- Representative problems: `Subarray Sum Equals K` (560), `Product of Array Except Self` (238) (prefix-like transforms), `Missing Number` (268).
+  - Key ideas: prefix sums to transform range-sum queries into constant-time checks; use hashmaps to store seen sums/indices.
+  - Representative problems: `Subarray Sum Equals K` (560), `Product of Array Except Self` (238) (prefix-like transforms), `Missing Number` (268).
 
 - **Sorting & Partitioning:**
-	- Key ideas: sort + two-pointer, partition (Dutch National Flag), selection for k-th largest, use sorting to simplify logic.
-	- Representative problems: `Sort Colors` (75), `Maximum Product of Three Numbers` (628), `Merge Sorted Array` (88).
+  - Key ideas: sort + two-pointer, partition (Dutch National Flag), selection for k-th largest, use sorting to simplify logic.
+  - Representative problems: `Sort Colors` (75), `Maximum Product of Three Numbers` (628), `Merge Sorted Array` (88).
 
 - **Binary Search & Variants:**
-	- Key ideas: search on index/answer, handle edge cases (duplicates, rotated arrays), use while-loops with mid computation.
-	- Representative problems: `Sqrt(x)` (69), `Find Minimum in Rotated Sorted Array` (153), `Search in Rotated Sorted Array` (33), `Binary Search` (704).
+  - Key ideas: search on index/answer, handle edge cases (duplicates, rotated arrays), use while-loops with mid computation.
+  - Representative problems: `Sqrt(x)` (69), `Find Minimum in Rotated Sorted Array` (153), `Search in Rotated Sorted Array` (33), `Binary Search` (704).
 
 - **Dynamic Programming (DP):**
-	- Key ideas: define state, recurrence, optimize space when possible, handle base cases.
-	- Representative problems: `Maximum Subarray` (53) (Kadane — 1D DP), `Maximum Product Subarray` (152), `Longest Increasing Subsequence` (300), `Fibonacci Number` (509).
+  - Key ideas: define state, recurrence, optimize space when possible, handle base cases.
+  - Representative problems: `Maximum Subarray` (53) (Kadane — 1D DP), `Maximum Product Subarray` (152), `Longest Increasing Subsequence` (300), `Fibonacci Number` (509).
 
 - **Greedy:**
-	- Key ideas: local optimal choices lead to global optimum, sorting + greedy selection.
-	- Representative problems: `Best Time to Buy and Sell Stock` (121) (single pass greedy), `Maximum Product of Three Numbers` (628).
+  - Key ideas: local optimal choices lead to global optimum, sorting + greedy selection.
+  - Representative problems: `Best Time to Buy and Sell Stock` (121) (single pass greedy), `Maximum Product of Three Numbers` (628).
 
 - **Bit Manipulation & Math:**
-	- Key ideas: bit ops for flags/counting bits, arithmetic tricks, modular considerations.
-	- Representative problems: `Reverse Bits` (190), `Number of 1 Bits` (191), `Power of Two` (231), `Add Digits` (258), `Pow(x, n)` (50).
+  - Key ideas: bit ops for flags/counting bits, arithmetic tricks, modular considerations.
+  - Representative problems: `Reverse Bits` (190), `Number of 1 Bits` (191), `Power of Two` (231), `Add Digits` (258), `Pow(x, n)` (50).
 
 - **Linked List Techniques:**
-	- Key ideas: slow/fast pointers, cycle detection, two-pointer removal, list merging.
-	- Representative problems: `Linked List Cycle` (141), `Linked List Cycle II` (142), `Palindrome Linked List` (234), `Merge k Sorted Lists` (23).
+  - Key ideas: slow/fast pointers, cycle detection, two-pointer removal, list merging.
+  - Representative problems: `Linked List Cycle` (141), `Linked List Cycle II` (142), `Palindrome Linked List` (234), `Merge k Sorted Lists` (23).
 
 - **Recursion, Tree Traversal & DFS:**
-	- Key ideas: recursion for traversal, stack-based iterative alternatives, preorder/inorder/postorder patterns.
-	- Representative problems: `Binary Tree Preorder Traversal` (144).
+  - Key ideas: recursion for traversal, stack-based iterative alternatives, preorder/inorder/postorder patterns.
+  - Representative problems: `Binary Tree Preorder Traversal` (144).
 
 - **Number Theory & Primes:**
-	- Key ideas: sieve, primality checks, factorization where relevant.
-	- Representative problems: `Count Primes` (204), `Perfect Number` (507), `Valid Perfect Square` (367).
+  - Key ideas: sieve, primality checks, factorization where relevant.
+  - Representative problems: `Count Primes` (204), `Perfect Number` (507), `Valid Perfect Square` (367).
 
 - **Windowed and Monotonic Methods:**
-	- Key ideas: monotonic queues/stacks for range maxima/minima and optimized sliding-window variants.
-	- Representative problems: `Peak Index in a Mountain Array` (852), `Number of Smooth Descent Periods of a Stock` (2110) (pattern counting).
+  - Key ideas: monotonic queues/stacks for range maxima/minima and optimized sliding-window variants.
+  - Representative problems: `Peak Index in a Mountain Array` (852), `Number of Smooth Descent Periods of a Stock` (2110) (pattern counting).
 
 Each solution typically includes a short explanation in the file header and attempts to show the pattern used so the approach is reusable across similar problems.
 
@@ -209,6 +210,7 @@ Each solution typically includes a short explanation in the file header and atte
 git clone https://github.com/Aniketgudgal/DSA_Leet_Questions.git
 cd DSA_Leet_Questions
 ```
+
 - Open the solution file for a problem (files are organized per problem). Each file contains a solution and usually a small test or example usage in comments.
 - Run the file using the language runtime your solution is implemented in (Python, Java, C++, etc.). Example for Python:
 
