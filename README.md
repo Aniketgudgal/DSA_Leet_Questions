@@ -131,6 +131,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 125. Minimum Operations to Make Array Sum Divisible by K
 126. XOR After Range Multiplication Queries I
 127. GCD of Odd and Even Sums
+128. XOR After Range Multiplication Queries II
 
 ## Repository Documentation
 
