@@ -133,6 +133,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 127. GCD of Odd and Even Sums
 128. XOR After Range Multiplication Queries II
 129. Minimum Distance Between Three Equal Elements I
+130. Minimum Distance Between Three Equal Elements II
 
 ## Repository Documentation
 
