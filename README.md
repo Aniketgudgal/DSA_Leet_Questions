@@ -134,6 +134,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 128. XOR After Range Multiplication Queries II
 129. Minimum Distance Between Three Equal Elements I
 130. Minimum Distance Between Three Equal Elements II
+131. Minimum Distance to Type a Word Using Two Fingers
 
 ## Repository Documentation
 
