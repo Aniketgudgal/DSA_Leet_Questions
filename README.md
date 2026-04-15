@@ -137,6 +137,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 131. Minimum Distance Between Three Equal Elements II
 132. Minimum Distance to Type a Word Using Two Fingers
 133. Minimum Distance to the Target Element
+134. Shortest Distance to Target String in a Circular Array
 
 ## Repository Documentation
 
