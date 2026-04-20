@@ -139,6 +139,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 133. Minimum Distance to the Target Element
 134. Shortest Distance to Target String in a Circular Array
 135. Mirror Distance of an Integer
+136. Two Furthest Houses With Different Colors
 
 ## Repository Documentation
 
