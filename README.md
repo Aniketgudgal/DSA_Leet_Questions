@@ -141,6 +141,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 135. Mirror Distance of an Integer
 136. Two Furthest Houses With Different Colors
 137. Minimize Hamming Distance After Swap Operations
+138. Sum of Distances
 
 ## Repository Documentation
 
