@@ -143,6 +143,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 137. Minimize Hamming Distance After Swap Operations
 138. Sum of Distances
 139. Furthest Point From Origin
+140. Rotated Digits
 
 ## Repository Documentation
 
