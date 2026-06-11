@@ -145,6 +145,7 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 139. Sum of Distances
 140. Furthest Point From Origin
 141. Rotated Digits
+142. Merge Two Sorted Lists
 
 ## Repository Documentation
 
