@@ -104,50 +104,51 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 98. Walking Robot Simulation
 99. Koko Eating Bananas
 100. Sort Array By Parity
-101. Max Consecutive Ones III
-102. Minimum Absolute Difference
-103. Unique Number of Occurrences
-104. Count Negative Numbers in a Sorted Matrix
-105. Number of Substrings Containing All Three Characters
-106. Maximum Points You Can Obtain from Cards
-107. Kids With the Greatest Number of Candies
-108. Maximum Number of Vowels in a Substring of Given Length
-109. Running Sum of 1d Array
-110. Partitioning Into Minimum Number Of Deci-Binary Numbers
-111. Check if Array Is Sorted and Rotated
-112. Find the Highest Altitude
-113. Determine Whether Matrix Can Be Obtained By Rotation
-114. Walking Robot Simulation II
-115. Delete the Middle Node of a Linked List
-116. Number of Smooth Descent Periods of a Stock
-117. Find the Difference of Two Arrays
-118. Equal Row and Column Pairs
-119. Maximum Count of Positive Integer and Negative Integer
-120. Left and Right Sum Differences
-121. Robot Collisions
-122. Check if Strings Can be Made Equal With Operations I
-123. Check if Strings Can be Made Equal With Operations II
-124. Minimum Operations to Exceed Threshold Value I
-125. Harshad Number
-126. Delete Nodes From Linked List Present in Array
-127. Maximum Amount of Money Robot Can Earn
-128. Lexicographically Smallest Generated String
-129. Minimum Operations to Make Array Sum Divisible by K
-130. XOR After Range Multiplication Queries I
-131. GCD of Odd and Even Sums
-132. XOR After Range Multiplication Queries II
-133. Minimum Distance Between Three Equal Elements I
-134. Minimum Distance Between Three Equal Elements II
-135. Minimum Distance to Type a Word Using Two Fingers
-136. Minimum Distance to the Target Element
-137. Shortest Distance to Target String in a Circular Array
-138. Mirror Distance of an Integer
-139. Two Furthest Houses With Different Colors
-140. Minimize Hamming Distance After Swap Operations
-141. Sum of Distances
-142. Furthest Point From Origin
-143. Rotated Digits
-144. Merge Two Sorted Lists
+101. Longest Palindrome
+102. Max Consecutive Ones III
+103. Minimum Absolute Difference
+104. Unique Number of Occurrences
+105. Count Negative Numbers in a Sorted Matrix
+106. Number of Substrings Containing All Three Characters
+107. Maximum Points You Can Obtain from Cards
+108. Kids With the Greatest Number of Candies
+109. Maximum Number of Vowels in a Substring of Given Length
+110. Running Sum of 1d Array
+111. Partitioning Into Minimum Number Of Deci-Binary Numbers
+112. Check if Array Is Sorted and Rotated
+113. Find the Highest Altitude
+114. Determine Whether Matrix Can Be Obtained By Rotation
+115. Walking Robot Simulation II
+116. Delete the Middle Node of a Linked List
+117. Number of Smooth Descent Periods of a Stock
+118. Find the Difference of Two Arrays
+119. Equal Row and Column Pairs
+120. Maximum Count of Positive Integer and Negative Integer
+121. Left and Right Sum Differences
+122. Robot Collisions
+123. Check if Strings Can be Made Equal With Operations I
+124. Check if Strings Can be Made Equal With Operations II
+125. Minimum Operations to Exceed Threshold Value I
+126. Harshad Number
+127. Delete Nodes From Linked List Present in Array
+128. Maximum Amount of Money Robot Can Earn
+129. Lexicographically Smallest Generated String
+130. Minimum Operations to Make Array Sum Divisible by K
+131. XOR After Range Multiplication Queries I
+132. GCD of Odd and Even Sums
+133. XOR After Range Multiplication Queries II
+134. Minimum Distance Between Three Equal Elements I
+135. Minimum Distance Between Three Equal Elements II
+136. Minimum Distance to Type a Word Using Two Fingers
+137. Minimum Distance to the Target Element
+138. Shortest Distance to Target String in a Circular Array
+139. Mirror Distance of an Integer
+140. Two Furthest Houses With Different Colors
+141. Minimize Hamming Distance After Swap Operations
+142. Sum of Distances
+143. Furthest Point From Origin
+144. Rotated Digits
+145. Merge Two Sorted Lists
 
 ## Repository Documentation
 
