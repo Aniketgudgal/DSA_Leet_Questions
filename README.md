@@ -18,138 +18,139 @@ This repository collects my LeetCode solutions. Each problem is solved with clar
 12. Remove Element
 13. Find the Index of the First Occurrence in a String
 14. Search in Rotated Sorted Array
-15. Find First and Last Position of Element in Sorted Array
-16. Search Insert Position
-17. Rotate Image
-18. Pow(x, n)
-19. Maximum Subarray
-20. Spiral Matrix
-21. Plus One
-22. Add Binary
-23. Sqrt(x)
-24. Climbing Stairs
-25. Sort Colors
-26. Subsets
-27. Remove Duplicates from Sorted Array II
-28. Remove Duplicates from Sorted List
-29. Merge Sorted Array
-30. Rotate List
-31. Best Time to Buy and Sell Stock
-32. Longest Consecutive Sequence
-33. Linked List Cycle
-34. Linked List Cycle II
-35. Reorder List
-36. Binary Tree Preorder Traversal
-37. Binary Tree Postorder Traversal
-38. Maximum Product Subarray
-39. Find Minimum in Rotated Sorted Array
-40. Intersection of Two Linked Lists
-41. Find Peak Element
-42. Two Sum II - Input Array Is Sorted
-43. Majority Element
-44. Factorial Trailing Zeroes
-45. Rotate Array
-46. Reverse Bits
-47. Number of 1 Bits
-48. Happy Number
-49. Remove Linked List Elements
-50. Count Primes
-51. Isomorphic Strings
-52. Group Anagrams
-53. Reverse Linked List
-54. Implement Trie (Prefix Tree)
-55. Minimum Size Subarray Sum
-56. Contains Duplicate
-57. Power of Two
-58. Palindrome Linked List
-59. Delete Node in a Linked List
-60. Length of Last Word
-61. Product of Array Except Self
-62. Valid Anagram
-63. Add Digits
-64. Missing Number
-65. Move Zeroes
-66. Find the Duplicate Number
-67. Word Pattern
-68. Longest Increasing Subsequence
-69. Power of Three
-70. Odd Even Linked List
-71. Increasing Triplet Subsequence
-72. Reverse String
-73. Intersection of Two Arrays
-74. Valid Perfect Square
-75. Guess Number Higher or Lower
-76. First Unique Character in a String
-77. Fizz Buzz
-78. Third Maximum Number
-79. Find All Duplicates in an Array
-80. Perfect Number
-81. Fibonacci Number
-82. Subarray Sum Equals K
-83. Can Place Flowers
-84. Maximum Product of Three Numbers
-85. Maximum Average Subarray I
-86. Set Mismatch
-87. Robot Return to Origin
-88. Valid Palindrome II
-89. Binary Search
-90. Design Linked List
-91. Subarray Product Less Than K
-92. Find Pivot Index
-93. Find Smallest Letter Greater Than Target
-94. Min Cost Climbing Stairs
-95. Binary Tree Inorder Traversal
-96. Rotate String
-97. Peak Index in a Mountain Array
-98. Transpose Matrix
-99. Walking Robot Simulation
-100. Koko Eating Bananas
-101. Sort Array By Parity
-102. Longest Palindrome
-103. Max Consecutive Ones III
-104. Minimum Absolute Difference
-105. Unique Number of Occurrences
-106. Count Negative Numbers in a Sorted Matrix
-107. Number of Substrings Containing All Three Characters
-108. Maximum Points You Can Obtain from Cards
-109. Kids With the Greatest Number of Candies
-110. Maximum Number of Vowels in a Substring of Given Length
-111. Running Sum of 1d Array
-112. Partitioning Into Minimum Number Of Deci-Binary Numbers
-113. Check if Array Is Sorted and Rotated
-114. Find the Highest Altitude
-115. Determine Whether Matrix Can Be Obtained By Rotation
-116. Walking Robot Simulation II
-117. Delete the Middle Node of a Linked List
-118. Number of Smooth Descent Periods of a Stock
-119. Find the Difference of Two Arrays
-120. Equal Row and Column Pairs
-121. Maximum Count of Positive Integer and Negative Integer
-122. Left and Right Sum Differences
-123. Robot Collisions
-124. Check if Strings Can be Made Equal With Operations I
-125. Check if Strings Can be Made Equal With Operations II
-126. Minimum Operations to Exceed Threshold Value I
-127. Harshad Number
-128. Delete Nodes From Linked List Present in Array
-129. Maximum Amount of Money Robot Can Earn
-130. Lexicographically Smallest Generated String
-131. Minimum Operations to Make Array Sum Divisible by K
-132. XOR After Range Multiplication Queries I
-133. GCD of Odd and Even Sums
-134. XOR After Range Multiplication Queries II
-135. Minimum Distance Between Three Equal Elements I
-136. Minimum Distance Between Three Equal Elements II
-137. Minimum Distance to Type a Word Using Two Fingers
-138. Minimum Distance to the Target Element
-139. Shortest Distance to Target String in a Circular Array
-140. Mirror Distance of an Integer
-141. Two Furthest Houses With Different Colors
-142. Minimize Hamming Distance After Swap Operations
-143. Sum of Distances
-144. Furthest Point From Origin
-145. Rotated Digits
-146. Merge Two Sorted Lists
+15. 3Sum
+16. Find First and Last Position of Element in Sorted Array
+17. Search Insert Position
+18. Rotate Image
+19. Pow(x, n)
+20. Maximum Subarray
+21. Spiral Matrix
+22. Plus One
+23. Add Binary
+24. Sqrt(x)
+25. Climbing Stairs
+26. Sort Colors
+27. Subsets
+28. Remove Duplicates from Sorted Array II
+29. Remove Duplicates from Sorted List
+30. Merge Sorted Array
+31. Rotate List
+32. Best Time to Buy and Sell Stock
+33. Longest Consecutive Sequence
+34. Linked List Cycle
+35. Linked List Cycle II
+36. Reorder List
+37. Binary Tree Preorder Traversal
+38. Binary Tree Postorder Traversal
+39. Maximum Product Subarray
+40. Find Minimum in Rotated Sorted Array
+41. Intersection of Two Linked Lists
+42. Find Peak Element
+43. Two Sum II - Input Array Is Sorted
+44. Majority Element
+45. Factorial Trailing Zeroes
+46. Rotate Array
+47. Reverse Bits
+48. Number of 1 Bits
+49. Happy Number
+50. Remove Linked List Elements
+51. Count Primes
+52. Isomorphic Strings
+53. Group Anagrams
+54. Reverse Linked List
+55. Implement Trie (Prefix Tree)
+56. Minimum Size Subarray Sum
+57. Contains Duplicate
+58. Power of Two
+59. Palindrome Linked List
+60. Delete Node in a Linked List
+61. Length of Last Word
+62. Product of Array Except Self
+63. Valid Anagram
+64. Add Digits
+65. Missing Number
+66. Move Zeroes
+67. Find the Duplicate Number
+68. Word Pattern
+69. Longest Increasing Subsequence
+70. Power of Three
+71. Odd Even Linked List
+72. Increasing Triplet Subsequence
+73. Reverse String
+74. Intersection of Two Arrays
+75. Valid Perfect Square
+76. Guess Number Higher or Lower
+77. First Unique Character in a String
+78. Fizz Buzz
+79. Third Maximum Number
+80. Find All Duplicates in an Array
+81. Perfect Number
+82. Fibonacci Number
+83. Subarray Sum Equals K
+84. Can Place Flowers
+85. Maximum Product of Three Numbers
+86. Maximum Average Subarray I
+87. Set Mismatch
+88. Robot Return to Origin
+89. Valid Palindrome II
+90. Binary Search
+91. Design Linked List
+92. Subarray Product Less Than K
+93. Find Pivot Index
+94. Find Smallest Letter Greater Than Target
+95. Min Cost Climbing Stairs
+96. Binary Tree Inorder Traversal
+97. Rotate String
+98. Peak Index in a Mountain Array
+99. Transpose Matrix
+100. Walking Robot Simulation
+101. Koko Eating Bananas
+102. Sort Array By Parity
+103. Longest Palindrome
+104. Max Consecutive Ones III
+105. Minimum Absolute Difference
+106. Unique Number of Occurrences
+107. Count Negative Numbers in a Sorted Matrix
+108. Number of Substrings Containing All Three Characters
+109. Maximum Points You Can Obtain from Cards
+110. Kids With the Greatest Number of Candies
+111. Maximum Number of Vowels in a Substring of Given Length
+112. Running Sum of 1d Array
+113. Partitioning Into Minimum Number Of Deci-Binary Numbers
+114. Check if Array Is Sorted and Rotated
+115. Find the Highest Altitude
+116. Determine Whether Matrix Can Be Obtained By Rotation
+117. Walking Robot Simulation II
+118. Delete the Middle Node of a Linked List
+119. Number of Smooth Descent Periods of a Stock
+120. Find the Difference of Two Arrays
+121. Equal Row and Column Pairs
+122. Maximum Count of Positive Integer and Negative Integer
+123. Left and Right Sum Differences
+124. Robot Collisions
+125. Check if Strings Can be Made Equal With Operations I
+126. Check if Strings Can be Made Equal With Operations II
+127. Minimum Operations to Exceed Threshold Value I
+128. Harshad Number
+129. Delete Nodes From Linked List Present in Array
+130. Maximum Amount of Money Robot Can Earn
+131. Lexicographically Smallest Generated String
+132. Minimum Operations to Make Array Sum Divisible by K
+133. XOR After Range Multiplication Queries I
+134. GCD of Odd and Even Sums
+135. XOR After Range Multiplication Queries II
+136. Minimum Distance Between Three Equal Elements I
+137. Minimum Distance Between Three Equal Elements II
+138. Minimum Distance to Type a Word Using Two Fingers
+139. Minimum Distance to the Target Element
+140. Shortest Distance to Target String in a Circular Array
+141. Mirror Distance of an Integer
+142. Two Furthest Houses With Different Colors
+143. Minimize Hamming Distance After Swap Operations
+144. Sum of Distances
+145. Furthest Point From Origin
+146. Rotated Digits
+147. Merge Two Sorted Lists
 
 ## Repository Documentation
 
