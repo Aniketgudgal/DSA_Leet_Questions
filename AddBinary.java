@@ -6,6 +6,7 @@ class Solution {
         int j = b.length() - 1;
         int carry = 0;
 
+
         while(i >= 0 || j >= 0 || carry == 1) {
             int sum = carry;
 
